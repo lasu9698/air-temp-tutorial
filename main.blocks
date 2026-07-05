@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="q|5z/HZUjSfE$9jZF)?C" x="137" y="313"><statement name="HANDLER"><block type="device_show_number" id="I:5zspW$F5-S4_j!%xJJ"><value name="number"><block type="device_temperature" id="OALvsT!M85ZKHjar{4N7"></block></value></block></statement></block></xml>
